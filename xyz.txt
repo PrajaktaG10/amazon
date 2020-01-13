@@ -2,3 +2,4 @@ This is a text file.
 This is second lin in master.
 This is a second line in repday branch.
 
+Adding new line on 13th Jan '2020
